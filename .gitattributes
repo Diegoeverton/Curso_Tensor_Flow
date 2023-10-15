@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+datasets/Fashion_MNIST/fashion-mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+Deep_Learning/datasets/Fashion_MNIST/fashion-mnist_train.csv filter=lfs diff=lfs merge=lfs -text
